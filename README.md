@@ -34,6 +34,11 @@ Before running the application, make sure you have Python installed on your comp
 ### Step 2: Download the Application
 
 Clone this repository or download the ZIP file and extract it to a convenient location on your computer.
+You can download the application by cloning this repository. Open a terminal or command prompt and run the following command:
+
+```bash
+git clone https://github.com/yourusername/yourrepositoryname.git
+```
 
 ### Step 3: Install Required Packages
 
