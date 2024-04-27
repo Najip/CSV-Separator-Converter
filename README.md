@@ -33,9 +33,6 @@ To run this application, you'll need:
      python csv_converter_gui_id.py
      ```
 
-## Screenshots
-![Application Interface](logo.png)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
