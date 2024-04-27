@@ -1,5 +1,7 @@
 # CSV Separator Converter
 
+**Language:** English | [Indonesia](./readme_id.md)
+
 This application is designed to help you convert the separator in CSV files easily through a user-friendly graphical user interface (GUI). Whether you need to change a comma to a semicolon or vice versa, this tool has got you covered. This guide will help you set up and run the converter on your system.
 
 ## Prerequisites
