@@ -1,5 +1,7 @@
 # Konverter Separator CSV
 
+**Bahasa:** [English](./README.md) | Indonesia
+
 Aplikasi ini dirancang untuk membantu Anda mengubah separator dalam file CSV dengan mudah melalui antarmuka grafis yang ramah pengguna (GUI). Apakah Anda perlu mengubah koma menjadi titik koma atau sebaliknya, alat ini dapat membantu Anda. Panduan ini akan membantu Anda mengatur dan menjalankan konverter di sistem Anda.
 
 ## Prasyarat
