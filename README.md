@@ -17,12 +17,9 @@ To run this application, you'll need:
 ## Installation
 1. Clone this repository or download the ZIP.
 2. Extract and open the folder.
-
-## Usage
-1. Install the required dependencies:
+3. Install the required dependencies directly using pip. For example:
    ```bash
-   pip install -r requirements.txt
-   ```
+   pip install pandas
 2. Run the application:
    - For English interface:
      ```bash
