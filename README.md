@@ -37,7 +37,7 @@ Clone this repository or download the ZIP file and extract it to a convenient lo
 You can download the application by cloning this repository. Open a terminal or command prompt and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/yourrepositoryname.git
+git clone https://github.com/Najip/CSV-Separator-Converter.git
 ```
 
 ### Step 3: Install Required Packages
