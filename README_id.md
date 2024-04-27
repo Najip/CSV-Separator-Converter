@@ -1,4 +1,4 @@
-# Konverter Separator CSV
+# CSV Separator Converter
 
 **Bahasa:** [English](./README.md) | Indonesia
 
@@ -34,6 +34,11 @@ Sebelum menjalankan aplikasi, pastikan Anda telah menginstal Python di komputer 
 ### Langkah 2: Mengunduh Aplikasi
 
 Kloning repositori ini atau unduh file ZIP dan ekstrak ke lokasi yang nyaman di komputer Anda.
+Anda dapat mengunduh aplikasi dengan mengkloning repositori ini. Buka terminal atau command prompt dan jalankan perintah berikut:
+
+```bash
+git clone https://github.com/Najip/CSV-Separator-Converter.git
+```
 
 ### Langkah 3: Menginstal Paket yang Diperlukan
 
